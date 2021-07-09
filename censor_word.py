@@ -43,7 +43,7 @@ for word in words :
     txt = text
 
 # uncomment this if you want the output printed to console :
-#print(txt)
+print(txt)
 
 # writing the text to output.txt (uncomment this if you want the text as a file 'output.txt')
 #writing(txt)
